@@ -1,0 +1,6 @@
+interface:
+  display_name: "Niche Documentary Animation"
+  short_description: "Research, script, and animate original documentaries"
+  default_prompt: "Use $niche-documentary-animation to research and write an original company history documentary, stopping at the script unless I request production."
+policy:
+  allow_implicit_invocation: true
